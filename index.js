@@ -1,5 +1,5 @@
 const openaiEndpoint = 'https://api.openai.com/v1/chat/completions';
-const openaiApiKey = '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';
+const openaiApiKey = 'aSD';
 
 function askAI() {
   const prompt = document.getElementById("inputText").value;
